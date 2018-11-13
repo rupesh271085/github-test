@@ -1,0 +1,20 @@
+how to install node js-
+
+https://nodesource.com/blog/installing-node-js-tutorial-ubuntu/
+https://websiteforstudents.com/install-the-latest-node-js-and-nmp-packages-on-ubuntu-16-04-18-04-lts/
+sudo apt install nodejs
+node -v
+npm -v
+
+
+-----------------------------------------------------------------------
+Best Linux Code Editor: Top 10 Reviewed and Compared
+
+https://www.ubuntupit.com/best-linux-code-editor-top-10-reviewed-compared/
+
+-------------------------------------------------------------------------------
+What is desktop app launcher on ubuntu
+
+https://linuxconfig.org/how-to-create-desktop-shortcut-launcher-on-ubuntu-18-04-bionic-beaver-linux
+------------------------------------------------------------------------------------------------------
+
